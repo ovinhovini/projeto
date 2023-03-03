@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    user-select: none;
+    font-family: 'Golos Text', sans-serif;
+    font-weight: 600;
+}
+#header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color:azure;
+    box-shadow: 1px 1px 4px whitesmoke;
+    height: 3em;
+    padding: 0 10%;
+    gap: 3em;
+}
+a {
+    text-decoration: none;
+    color: #023047;
+}
+body {
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(0,84,166,1) 0%, rgba(132,189,201,1) 90% );
+}
+.btn_icon {
+    border: none;
+    background-color: transparent;
+    color: #023047;
+}
