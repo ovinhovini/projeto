@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Golos Text', sans-serif;
+}
+a {
+    color: #ECF2FF;
+    text-decoration: none;
+    transition: 0.3s;
+    font-weight: 550;
+  }
+  a:hover {
+    opacity: 0.7;
+  }
+  .logo {
+    font-size: 24px;
+    text-transform: lowercase;
+    color: #ECF2FF;
+  }
+  nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #3E54AC;
+    box-shadow: 0 0 4px #3E54AC;
+    height: 8vh;
+  }
+  .nav-list {
+    list-style: none;
+    display: flex;
+  }
+  .nav-list li {
+    margin-left: 32px;
+  }
