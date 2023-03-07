@@ -21,7 +21,7 @@ a {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background: #0f0141;
+    background: #3E54AC;
     height: 8vh;
   }
   .nav-list {
@@ -52,7 +52,7 @@ a {
       right: 0;
       width: 45vw;
       height: 45vh;
-      background: #0f0141;
+      background: #3E54AC;
       flex-direction: column;
       align-items: center;
       justify-content: space-around;
