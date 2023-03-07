@@ -2,7 +2,7 @@ background-image: radial-gradient( circle 610px at 5.2% 51.6%,  #907ad6 0%, #dab
     overflow: hidden;
 }
 #text{
-    color: white;
+    color: #ECF2FF;
     font-size: 40px;
     text-align: left;
     font-weight: 700;
