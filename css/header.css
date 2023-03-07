@@ -4,7 +4,7 @@
     font-family: 'Golos Text', sans-serif;
 }
 a {
-    color: #fff;
+    color: #ECF2FF;
     text-decoration: none;
     transition: 0.3s;
     font-weight: 500;
@@ -15,7 +15,7 @@ a {
   .logo {
     font-size: 24px;
     text-transform: lowercase;
-    color: #fff;
+    color: #ECF2FF;
   }
   nav {
     display: flex;
@@ -38,7 +38,7 @@ a {
   .mobile-menu div {
     width: 29px;
     height: 2px;
-    background: #fff;
+    background: #ECF2FF;
     margin: 8px;
     transition: 0.3s;
   }
